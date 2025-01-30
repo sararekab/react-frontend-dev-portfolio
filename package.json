@@ -1,7 +1,8 @@
 {
-  "name": "react-frontend-dev-portfolio",
-  "version": "0.1.0",
+  "name": "sararekab.github.io",
   "private": true,
+  "homepage": "https://sararekab.github.io/",
+  "version": "0.1.0",
   "dependencies": {
     "@chakra-ui/react": "^2.4.9",
     "@emotion/react": "^11.0.0",
@@ -36,7 +37,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "deployToGitHub": "npm run build && npx gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
