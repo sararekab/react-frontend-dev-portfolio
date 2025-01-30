@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c0577dd.css",
+    "main.js": "/static/js/main.0e4cc588.js",
+    "static/media/sl.tanserlock.com.png": "/static/media/sl.tanserlock.com.52b8427de36ba9cd51e0.png",
+    "static/media/fix4_3.png": "/static/media/fix4_3.f2e3a10d7da83f387c89.png",
+    "static/media/fix4_1.png": "/static/media/fix4_1.a8bfc4290f57b35c0cd1.png",
+    "static/media/sl.tanserlock.rns.png": "/static/media/sl.tanserlock.rns.6007aa395916593d2cba.png",
+    "static/media/fix4_2.png": "/static/media/fix4_2.5f3b6fa8349b71930ab2.png",
+    "static/media/image.jpeg": "/static/media/image.9eb3814bff0f7bfc76b2.jpeg",
+    "index.html": "/index.html",
+    "main.7c0577dd.css.map": "/static/css/main.7c0577dd.css.map",
+    "main.0e4cc588.js.map": "/static/js/main.0e4cc588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c0577dd.css",
+    "static/js/main.0e4cc588.js"
+  ]
+}
