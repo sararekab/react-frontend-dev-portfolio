@@ -1,0 +1,14 @@
+.gradient {
+    background: rgb(119, 85, 115);
+    background: linear-gradient(
+      90deg,
+      rgb(84, 78, 157) 0%,
+      rgba(111, 11, 218, 1) 100%,
+      rgba(0, 212, 255, 1) 100%
+    );
+  }
+  .pageHeader {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: #fff;
+  }
