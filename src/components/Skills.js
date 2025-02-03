@@ -238,7 +238,7 @@ function Skills() {
           >
             <p style={{ marginTop: "60px" }}>
               <a
-                href="https://docs.google.com/document/d/17rFP6Nsi1h_92z1RMo30IfYWggNNM4y-ftc42GSDX94/edit?tab=t.0"
+                href="/SaraRekab_CV_2025_.pdf"
                 target="_blank"
                 class="btn btn-primary py-4 px-5"
                 style={{
